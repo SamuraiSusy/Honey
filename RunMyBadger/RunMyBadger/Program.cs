@@ -10,7 +10,7 @@ namespace RunMyBadger
         /// </summary>
         static void Main(string[] args)
         {
-            using (Game1 game = new Game1())
+            using (Level1 game = new Level1())
             {
                 game.Run();
             }
