@@ -4,7 +4,7 @@ namespace RunMyBadger
 {
     public class Tile
     {
-        public const int size = 100;
+        public const int size = 80;
 
         private bool _walkable;
 

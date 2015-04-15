@@ -4,3 +4,9 @@ C:\Users\ttk14ssusannan\Desktop\xna\RunMyBadger\RunMyBadger\RunMyBadger\obj\x86\
 C:\Users\ttk14ssusannan\Desktop\xna\RunMyBadger\RunMyBadger\RunMyBadger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\ttk14ssusannan\Desktop\xna\RunMyBadger\RunMyBadger\RunMyBadger\obj\x86\Debug\RunMyBadger.exe
 C:\Users\ttk14ssusannan\Desktop\xna\RunMyBadger\RunMyBadger\RunMyBadger\obj\x86\Debug\RunMyBadger.pdb
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\bin\x86\Debug\RunMyBadger.exe
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\bin\x86\Debug\RunMyBadger.pdb
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\obj\x86\Debug\RunMyBadger.csprojResolveAssemblyReference.cache
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\obj\x86\Debug\RunMyBadger.exe
+C:\Users\Susanna\gitti\Honey\RunMyBadger\RunMyBadger\obj\x86\Debug\RunMyBadger.pdb
